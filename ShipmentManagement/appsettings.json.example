@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Hillebrand": {
+    "HGB_CLIENT_ID": "0oab2dvjnvbbCUjLk0i7",
+    "HGB_CLIENT_SECRET": "NBilCm4-HBJwUVwLXfz9hJION7RggPfG72qHBGb0aBYtECfadbfeB-jyRMyChf7V",
+    "HGB_USERNAME": "dashti81@gmail.com",
+    "HGB_PASSWORD": "(op*1*9B}8M2",
+    "HGB_BASE_URL": "https://api.hillebrandgori.com",
+    "HGB_TOKEN_URL": "https://login.hillebrand.com/oauth2/aus95hq7r8iIqp14M0i7/v1/token"
+  }
+}

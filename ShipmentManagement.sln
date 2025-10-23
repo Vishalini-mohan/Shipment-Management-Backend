@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentManagement", "ShipmentManagement\ShipmentManagement.csproj", "{C6778606-3386-4F4E-B709-D5D14AA17F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentMangement.Tests", "ShipmentmangementTest\ShipmentMangement.Tests.csproj", "{7845DDAD-D973-4D84-B1BE-2CF7EB3262C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6778606-3386-4F4E-B709-D5D14AA17F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6778606-3386-4F4E-B709-D5D14AA17F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6778606-3386-4F4E-B709-D5D14AA17F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6778606-3386-4F4E-B709-D5D14AA17F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7845DDAD-D973-4D84-B1BE-2CF7EB3262C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7845DDAD-D973-4D84-B1BE-2CF7EB3262C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7845DDAD-D973-4D84-B1BE-2CF7EB3262C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7845DDAD-D973-4D84-B1BE-2CF7EB3262C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77765326-8B1E-46ED-8410-07F343FABEA8}
+	EndGlobalSection
+EndGlobal
